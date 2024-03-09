@@ -1,0 +1,1 @@
+slurmrestd -s v0.0.39 -vvvvvv -a rest_auth/local unix:/var/run/restd.socket
